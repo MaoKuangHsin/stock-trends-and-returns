@@ -1,8 +1,7 @@
 # stock-trends-and-returns
 Stock trend and return analysis for 2023–2024 based on Yahoo Finance data.
 # Stock Trends and Returns (2023–2024)
-This project analyzes the daily closing prices and annual returns of major companies across different global markets between 2023 and 2024, based on data retrieved from Yahoo Finance.
-
+This project analyzes the daily closing prices and annual returns of major companies across different global markets between 2023 and 2024.
 ---
 
 ## 📈 Project Structure
@@ -24,8 +23,6 @@ Each notebook includes:
 
 ---
 ## 🚀 Future Improvements
-
-## Future Improvements
 
 - Extend the analysis to multiple stocks or market indices.
 - Incorporate moving averages and technical indicators for trend analysis.
