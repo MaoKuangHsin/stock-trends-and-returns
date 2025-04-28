@@ -90,6 +90,4 @@ Each notebook includes:
 
 All stock data is retrieved via the Yahoo Finance API through the `yfinance` Python library.
 
----
-
 
